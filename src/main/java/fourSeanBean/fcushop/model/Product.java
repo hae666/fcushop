@@ -13,7 +13,7 @@ public class Product {
 
     public Product() {
     }
-
+/**/
     public Product(long id, String name, String imageUrl, int price, String description) {
         this.id = id;
         this.name = name;
